@@ -1,0 +1,16 @@
+{
+    "title": "Welcome",
+    "subtitle":"please sign in to continue our app",
+    "email":"Email",
+    "hintemail":"Enter your email",
+    "password":"Password",
+    "hintpassword":"Enter your password",
+    "forget":"Forget Password",
+    "sign":"Sign In",
+    "donthave":"don't have an account ",
+    "up":"Sign UP",
+    "username":"Username",
+    "haveaccpunt":"do you have account",
+    
+    "hintusername":"Enter user name"
+}
